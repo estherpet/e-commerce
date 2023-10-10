@@ -1,0 +1,296 @@
+@media screen and (min-device-width: 641px) and (max-device-width: 1007px){
+
+
+    #one {
+        text-align: center;
+        background-image: linear-gradient(purple, yellowgreen);
+        height: 800px;
+        color: white;
+    }
+
+    #two {
+        text-align: center;
+        background-image: url("images/background.png");
+        height: 578px;
+        color: white;
+
+
+    }
+
+    button:hover {
+        background-color: turquoise;
+        width: 100px;
+        height: 40px;
+    }
+
+    #three {
+        text-align: center;
+        height: 800px;
+    }
+
+    #four {
+        text-align: center;
+    }
+}
+@media screen and (min-device-width: 768px) and (max-device-width: 1366px){
+
+
+    #one {
+        text-align: center;
+        background-image: linear-gradient(purple, yellowgreen);
+        height: 800px;
+        color: white;
+    }
+
+    #two {
+        text-align: center;
+        background-image: url("images/background.png");
+        height: 578px;
+        color: white;
+
+
+    }
+
+    button:hover {
+        background-color: turquoise;
+        width: 100px;
+        height: 40px;
+    }
+
+    #three {
+        text-align: center;
+        height: 800px;
+    }
+
+    #four {
+        text-align: center;
+    }
+}
+@media screen and (min-device-width: 393px) and (max-device-width: 873px){
+
+
+    #one {
+        text-align: center;
+        background-image: linear-gradient(purple, yellowgreen);
+        height: 800px;
+        color: white;
+    }
+
+    #two {
+        text-align: center;
+        background-image: url("images/background.png");
+        height: 578px;
+        color: white;
+
+
+    }
+
+    button:hover {
+        background-color: turquoise;
+        width: 100px;
+        height: 40px;
+    }
+
+    #three {
+        text-align: center;
+        height: 800px;
+    }
+
+    #four {
+        text-align: center;
+    }
+}
+@media screen and (min-device-width: 360px) and (max-device-width: 780px){
+
+
+    #one {
+        text-align: center;
+        background-image: linear-gradient(purple, yellowgreen);
+        height: 800px;
+        color: white;
+    }
+
+    #two {
+        text-align: center;
+        background-image: url("images/background.png");
+        height: 578px;
+        color: white;
+
+
+    }
+
+    button:hover {
+        background-color: turquoise;
+        width: 100px;
+        height: 40px;
+    }
+
+    #three {
+        text-align: center;
+        height: 800px;
+    }
+
+    #four {
+        text-align: center;
+    }
+}
+@media screen and (min-device-width: 320px) and (max-device-width: 480px){
+
+
+    #one {
+        text-align: center;
+        background-image: linear-gradient(purple, yellowgreen);
+        height: 800px;
+        color: white;
+    }
+
+    #two {
+        text-align: center;
+        background-image: url("images/background.png");
+        height: 578px;
+        color: white;
+
+
+    }
+
+    button:hover {
+        background-color: turquoise;
+        width: 100px;
+        height: 40px;
+    }
+
+    #three {
+        text-align: center;
+        height: 800px;
+    }
+
+    #four {
+        text-align: center;
+    }
+}
+@media screen and (min-device-width: 769px) and (max-device-width: 1024px){
+
+
+    #one {
+        text-align: center;
+        background-image: linear-gradient(purple, yellowgreen);
+        height: 800px;
+        color: white;
+    }
+
+    #two {
+        text-align: center;
+        background-image: url("images/background.png");
+        height: 578px;
+        color: white;
+
+
+    }
+
+    button:hover {
+        background-color: turquoise;
+        width: 100px;
+        height: 40px;
+    }
+
+    #three {
+        text-align: center;
+        height: 800px;
+    }
+
+    #four {
+        text-align: center;
+    }
+}
+@media screen and (min-device-width: 200px) and (max-device-width: 319px){
+
+
+    #one {
+        text-align: center;
+        background-image: linear-gradient(purple, yellowgreen);
+        height: 800px;
+        color: white;
+    }
+
+    #two {
+        text-align: center;
+        background-image: url("images/background.png");
+        height: 578px;
+        color: white;
+
+
+    }
+
+    button:hover {
+        background-color: turquoise;
+        width: 100px;
+        height: 40px;
+    }
+
+    #three {
+        text-align: center;
+        height: 800px;
+    }
+
+    #four {
+        text-align: center;
+    }
+}
+@media screen and (min-device-width: 1201px) and (max-device-width: 1920px){
+
+    #one {
+        text-align: center;
+        background-image: linear-gradient(purple, yellowgreen);
+        height: 800px;
+        color: white;
+    }
+    #two {
+        text-align: center;
+        background-image: url("images/background.png");
+        height: 578px;
+        color: white;
+    }
+    button:hover {
+        background-color: turquoise;
+        width: 100px;
+        height: 40px;
+    }
+    #three {
+        text-align: center;
+        height: 800px;
+    }
+    #four {
+        text-align: center;
+    }
+}
+@media screen and (min-device-width: 100px) and (max-device-width: 199px){
+    #one {
+        text-align: center;
+        background-image: linear-gradient(purple, yellowgreen);
+        height: 800px;
+        color: white;
+        width: 100%;
+    }
+    #two {
+        text-align: center;
+        background-image: url("images/background.png");
+        height: 578px;
+        color: white;
+    }
+    button:hover {
+        background-color: turquoise;
+        width: 100px;
+        height: 40px;
+    }
+    #three {
+        text-align: center;
+        height: 800px;
+    }
+    #four {
+        text-align: center;
+    }
+}
+
+
+
+
